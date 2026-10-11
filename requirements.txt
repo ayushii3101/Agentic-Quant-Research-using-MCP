@@ -1,0 +1,17 @@
+mcp<2
+
+yfinance
+pandas
+numpy
+scipy
+statsmodels
+
+python-dotenv
+
+langchain
+langchain-groq
+langchain-mcp-adapters
+
+requests
+arxiv
+
